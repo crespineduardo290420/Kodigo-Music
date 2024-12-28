@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*retira scroolbar*/
+::-webkit-scrollbar{
+    display: none;
+}
